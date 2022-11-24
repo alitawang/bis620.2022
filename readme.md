@@ -3,6 +3,8 @@
 
 # bis620.2022
 
+## Q1：A short description of the package and its usage.
+
 The goal of bis620.2022 is to
 
 1.  Capture spectral signature of Accelerometry data with three
@@ -75,8 +77,13 @@ ukb_accel |> spectral_signature(take_log = T) |> accel_plot()
 
 
 <!-- badges: start -->
+
+## Q2：A badge indicating if the build was successful.
+
 ![R-CMD-check](https://github.com/alitawang/bis620.2022/actions/workflows/R-CMD-check.yaml/badge.svg)
 ![lint](https://github.com/alitawang/bis620.2022/actions/workflows/lint.yaml/badge.svg)
 ![test-coverage](https://github.com/alitawang/bis620.2022/actions/workflows/test-coverage.yaml/badge.svg)
 
 <!-- badges: end -->
+
+## Q3：A link to the coverage page and lint results.
